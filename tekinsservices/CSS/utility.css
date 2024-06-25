@@ -1,0 +1,140 @@
+.d-none {
+    display: none;
+}
+.flex {
+    display: flex;
+}
+.flex-direction-c {
+    flex-direction: column;
+}
+.justify-content-sb {
+    justify-content: space-between;
+}
+.margin-top {
+    margin-top: 3rem;
+    
+   
+}
+
+.margin-l {
+    margin-left: 5rem;
+}
+
+
+.box-shadow {
+    box-shadow: rgba(0, 100, 0, 0.25) 0.1rem 0.1rem 1rem;
+    border-radius: 5px;
+    width: 37rem;
+    height: 23rem;
+}
+
+.cus-p {
+    cursor: pointer;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.text-ai-c {
+    text-align: center;
+}
+
+
+
+.flex-c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.padding {
+    padding: 1.5rem;
+}
+
+
+.art-ctn-h1 {
+    font-size: 1.5rem;
+}
+
+.art-ctn-p {
+    font-size: 1.7rem;
+    margin: 2rem;
+
+}
+
+
+.fixed-desktop-pad {
+    padding: calc(8rem + 2em) 4em;
+}
+.desktop-pad {
+    padding: 2em 4em;
+}
+.gen-letter-s {
+    letter-spacing: 0.07125rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.d-block {
+    display: block;
+}
+.d-flex {
+    display: flex;
+}
+.d-grid {
+    display: grid;
+}
+.d-none {
+    display: none;
+}
+.fd-c {
+    flex-direction: column;
+}
+.ai-c {
+    align-items: center;
+}
+.jc-c {
+    justify-content: center;
+}
+.jc-sb {
+    justify-content: space-between;
+}
+.center {
+    display: grid;
+    place-items: center;
+}
+.text-a-c {
+    text-align: center;
+}
+.vertical-a-m {
+    vertical-align: middle;
+}
+.cus-p {
+    cursor: pointer;
+}
+.pos-rel {
+    position: relative;
+}
+.pos-abs {
+    position: absolute;
+}
+.img-fluid, .text-fluid {
+    width: 100% !important;
+    height: 100% !important;
+}
+.img-centering {
+    object-fit: cover !important;
+    object-position: center !important;
+}
